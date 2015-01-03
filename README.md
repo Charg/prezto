@@ -12,6 +12,8 @@ Syncing The Fork
 > git checkout master  
 > git merge upstream/master  
 
+Reference: [https://help.github.com/articles/syncing-a-fork/](https://help.github.com/articles/syncing-a-fork/)
+
 Installation
 ------------
 
