@@ -5,6 +5,13 @@ Prezto is the configuration framework for [Zsh][1]; it enriches the command line
 interface environment with sane defaults, aliases, functions, auto completion,
 and prompt themes.
 
+Syncing The Fork
+----------------
+> git remote add upstream https://github.com/sorin-ionescu/prezto  
+> git fetch upstream
+> git checkout master
+> git merge upstream/master
+
 Installation
 ------------
 
